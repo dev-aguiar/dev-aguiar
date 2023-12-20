@@ -3,7 +3,7 @@
 Olá, meu nome é **André Aguiar** e sou um **desenvolvedor iniciante**. Atualmente, estou aprendendo **Python** e tenho interesse em **Java**, **HTML** e **CSS**. Meu objetivo é me tornar um desenvolvedor completo e contribuir para projetos incríveis.
 
 # **Cursos:**
-Tecnólogo em Análise e Desenvolvimento de Sistemas                             - Início em Jan/2022 ~ Previsão de conclusão em Dez/2023
+Tecnólogo em Análise e Desenvolvimento de Sistemas                             - Início em Jan/2022 ~ Conclusão em Dez/2023
 
 
 # **Habilidades técnicas:**
