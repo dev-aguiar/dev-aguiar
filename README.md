@@ -22,6 +22,10 @@ Bootcamp Potência Tech iFood - Programação do Zero                           
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ### Habilidades interpessoais:
 Boa capacidade de comunicação e trabalho em equipe
 
@@ -33,6 +37,12 @@ Boa habilidade em resolução de problemas e pensamento crítico
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/dio-lab-open-source)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-logica-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-logica-dio)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-funcoes-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-funcoes-dio)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-classes-objetos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-classes-objetos)
+
 ### Status do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-aguiar&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
