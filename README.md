@@ -14,6 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, sou um desenvolvedor inicia
 
 ### Cursos:
 Tecnólogo em Análise e Desenvolvimento de Sistemas                             - Início em Jan/2022 ~ Concluído em Dez/2023
+
 Bootcamp Potência Tech iFood - Programação do Zero                             - Concluído em Jan/2024
 
 ### Habilidades
