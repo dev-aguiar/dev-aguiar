@@ -1,46 +1,38 @@
-# **Sobre mim**
+# André Luiz Fraga de Aguiar
 
-Olá, meu nome é **André Aguiar** e sou um **desenvolvedor iniciante**. Atualmente, estou aprendendo **Python** e tenho interesse em **Java**, **HTML** e **CSS**. Meu objetivo é me tornar um desenvolvedor completo e contribuir para projetos incríveis.
+Estudante de Análise e Desenvolvimento de Sistemas, sou um desenvolvedor iniciante. Atualmente, estou aprendendo JavaScript e tenho interesse em Java, HTML e CSS. Meu objetivo é me tornar um desenvolvedor completo e contribuir para projetos incríveis.
 
-# **Cursos:**
-Tecnólogo em Análise e Desenvolvimento de Sistemas                             - Início em Jan/2022 ~ Conclusão em Dez/2023
+### Conecte-se comigo
 
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/andre_aguiar522)
 
-# **Habilidades técnicas:**
-**Conhecimento básico de Python, HTML e  CSS**
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andre.aguiar522@gmail.com)
 
-# **Habilidades interpessoais:**
-**Boa capacidade de comunicação e trabalho em equipe**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/andre-aguiar97/)
 
-**Capacidade de aprender rapidamente e de forma autônoma**
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5511975158913)
 
-**Boa habilidade em resolução de problemas e pensamento crítico**
+### Cursos:
+Tecnólogo em Análise e Desenvolvimento de Sistemas                             - Início em Jan/2022 ~ Concluído em Dez/2023
+Bootcamp Potência Tech iFood - Programação do Zero                             - Concluído em Jan/2024
 
-# **Projetos**
-Aqui estão alguns dos projetos que desenvolvi enquanto aprendo a programar:
+### Habilidades
 
-**Calculadora:**
-Calculadora baseada no projeto do Guanabara com leves modificações para torna-la esteticamente diferente do que foi mostrado na aula.
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 
-**Jogo de escolhas:**
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-Nome do jogo: A busca pela relíquia perdida! 
+### Habilidades interpessoais:
+Boa capacidade de comunicação e trabalho em equipe
 
-Desenvolvi um jogo de escolhas usando a linguagem Python. O jogo permite que os jogadores tomem decisões que afetam o enredo, onde cada decisão leva a uma consequência diferente. Estou usando Python para lidar com a lógica do jogo, criar as opções de escolha e gerenciar o fluxo do enredo. Em breve vou aplicar as técnicas de **Clean Code**
+Capacidade de aprender rapidamente e de forma autônoma
 
+Boa habilidade em resolução de problemas e pensamento crítico
 
-**Técnologias usadas nos projetos:**
-Python
+### Meus Principais Desafios de Projeto DIO
 
-# **Contato**
-Se você tiver interesse em me contratar ou quiser colaborar em um projeto, pode me contatar pelo seguinte:
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/dio-lab-open-source)
 
-**(11) 97515-8913 WhatsApp**
+### Status do GitHub
 
-**andre.aguiar522@gmail.com**
-
-**https://github.com/DarkFox97**
-
-**https://www.linkedin.com/in/andre-aguiar97/**
-
-Obrigado por ler! Estou animado para continuar a desenvolver minhas habilidades e trabalhar em projetos incríveis.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-aguiar&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
