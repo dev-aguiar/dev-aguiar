@@ -1,6 +1,6 @@
 # André Luiz Fraga de Aguiar
 
-Estudante de Análise e Desenvolvimento de Sistemas, sou um desenvolvedor iniciante. Atualmente, estou aprendendo JavaScript e tenho interesse em Java, HTML e CSS. Meu objetivo é me tornar um desenvolvedor completo e contribuir para projetos incríveis.
+Estudante de Análise e Desenvolvimento de Sistemas, sou um desenvolvedor iniciante. Atualmente, estou aprendendo Java e também tenho interesse em Javascript, HTML e CSS. Meu objetivo é me tornar um desenvolvedor completo e contribuir para projetos incríveis.
 
 ### Conecte-se comigo
 
@@ -16,6 +16,9 @@ Estudante de Análise e Desenvolvimento de Sistemas, sou um desenvolvedor inicia
 Tecnólogo em Análise e Desenvolvimento de Sistemas                             - Início em Jan/2022 ~ Concluído em Dez/2023
 
 Bootcamp Potência Tech iFood - Programação do Zero                             - Concluído em Jan/2024
+
+Bootcamp Java AI Powered - DIO                                                 - Em andamento
+
 
 ### Habilidades
 
@@ -41,6 +44,8 @@ Boa habilidade em resolução de problemas e pensamento crítico
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/dio-lab-open-source)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-java-poo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-java-poo)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=calculadora-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/calculadora-java)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=dio-trilha-java-basico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/dio-trilha-java-basico)
 
