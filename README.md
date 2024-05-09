@@ -17,7 +17,9 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas                            
 
 Bootcamp Potência Tech iFood - Programação do Zero                             - Concluído em Jan/2024
 
-Bootcamp Java AI Powered - DIO                                                 - Em andamento
+DIO Campus Expert #7                                                           - Concluído em Abril/2024
+
+Bootcamp Java Santander - DIO                                                  - Em andamento
 
 
 ### Habilidades
