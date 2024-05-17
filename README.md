@@ -1,6 +1,6 @@
 # André Luiz Fraga de Aguiar
 
-Estudante de Análise e Desenvolvimento de Sistemas, sou um desenvolvedor iniciante. Atualmente, estou aprendendo Java e também tenho interesse em Javascript, HTML e CSS. Meu objetivo é me tornar um desenvolvedor completo e contribuir para projetos incríveis.
+Sou um desenvolvedor recém-formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e em constante aprendizado. Estou me dedicando ao aprimoramento em Java e tenho conhecimento em JavaScript, HTML e CSS. Estou motivado a me tornar um desenvolvedor full-stack e ansioso para colaborar em projetos inovadores e desafiadores.
 
 ### Conecte-se comigo
 
@@ -12,14 +12,16 @@ Estudante de Análise e Desenvolvimento de Sistemas, sou um desenvolvedor inicia
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5511975158913)
 
+
 ### Cursos:
-Tecnólogo em Análise e Desenvolvimento de Sistemas                             - Início em Jan/2022 ~ Concluído em Dez/2023
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Jan/2022 ~ Dez/2023
 
-Bootcamp Potência Tech iFood - Programação do Zero                             - Concluído em Jan/2024
+- **Bootcamp Potência Tech iFood - Programação do Zero** - Concluído em Jan/2024
 
-DIO Campus Expert #7                                                           - Concluído em Abril/2024
+- **DIO Campus Expert #7** - Concluído em Abril/2024
 
-Bootcamp Java Santander - DIO                                                  - Em andamento
+- **Bootcamp Java Santander - DIO** - Em andamento
+
 
 
 ### Habilidades
@@ -28,34 +30,56 @@ Bootcamp Java Santander - DIO                                                  -
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ### Habilidades interpessoais:
-Boa capacidade de comunicação e trabalho em equipe
 
-Capacidade de aprender rapidamente e de forma autônoma
+- Boa capacidade de comunicação e trabalho em equipe
 
-Boa habilidade em resolução de problemas e pensamento crítico
+- Capacidade de aprender rapidamente e de forma autônoma
 
-### Meus Principais Desafios de Projeto DIO
+- Boa habilidade em resolução de problemas e pensamento crítico
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/dio-lab-open-source)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-java-poo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-java-poo)
+
+## Meus Principais Projetos
+
+### Projetos em Java
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=sistema-erp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/sistema-erp)
+
+*Um sistema ERP básico para gerenciamento de produtos e estoque, desenvolvido com Java. Em breve será implementado um sistema de clientes e vendas.*
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=calculadora-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/calculadora-java)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=dio-trilha-java-basico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/dio-trilha-java-basico)
+*Uma calculadora simples implementada em Java para praticar conceitos básicos de programação.*
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-java-poo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-java-poo)
+
+*Desafio de programação em Java com foco em POO reproduzindo o sistema interno do primeiro iPhone.*
+
+
+
+
+### Projetos em JavaScript
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-logica-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-logica-dio)
 
+*Desafios de lógica de programação resolvidos em JavaScript.*
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-funcoes-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-funcoes-dio)
 
+*Desafios feitos para aprimorar o conhecimento em funções em JavaScript.*
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-classes-objetos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-classes-objetos)
+
+*Desafio feito para aprimorar o conhecimento em classes feito em JavaScript.*
+
 
 ### Status do GitHub
 
