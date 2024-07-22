@@ -65,7 +65,7 @@ Sou um desenvolvedor recém-formado em Análise e Desenvolvimento de Sistemas, a
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=PequenosProjetos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/PequenosProjetos)
 
-*Pequenos Projetos para fixar e aprimorar conhechimento em List, pesquisa e Ordenação.*
+*Pequenos Projetos para fixar e aprimorar conhecimento em List, pesquisa e Ordenação.*
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-java-poo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-java-poo)
 
