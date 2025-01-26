@@ -1,6 +1,47 @@
 # André Luiz Fraga de Aguiar
 
-Sou um desenvolvedor recém-formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e em constante aprendizado. Estou me dedicando ao aprimoramento em Java e tenho conhecimento em JavaScript, HTML e CSS. Estou motivado a me tornar um desenvolvedor full-stack e ansioso para colaborar em projetos inovadores e desafiadores.
+Sou um desenvolvedor formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e em constante aprendizado. Estou me dedicando ao aprimoramento em Java e tenho conhecimento em JavaScript, HTML e CSS.
+
+## Meus Principais Projetos
+
+### Projetos em Java
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=sistema-erp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/dslist)
+
+*Projeto utilizando java, spring e docker para armazenar dados. Em breve terá um front do projeto*
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=sistema-erp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/sistema-erp)
+
+*Um sistema ERP básico para gerenciamento de produtos e estoque, desenvolvido com Java. Em breve será implementado um sistema de clientes e vendas.*
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=catalogo-servico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/catalogo-servico)
+
+*Catálogo de serviços onde é possível cadastrar um profissional e o tipo de serviço oferecido.*
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=calculadora-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/calculadora-java)
+
+*Uma calculadora simples implementada em Java para praticar conceitos básicos de programação.*
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=PequenosProjetos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/PequenosProjetos)
+
+*Pequenos Projetos para fixar e aprimorar conhecimento em List, pesquisa e Ordenação.*
+
+
+
+
+### Projetos em JavaScript
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-logica-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-logica-dio)
+
+*Desafios de lógica de programação resolvidos em JavaScript.*
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-funcoes-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-funcoes-dio)
+
+*Desafios feitos para aprimorar o conhecimento em funções em JavaScript.*
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-classes-objetos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-classes-objetos)
+
+*Desafio feito para aprimorar o conhecimento em classes feito em JavaScript.*
 
 ### Conecte-se comigo
 
@@ -44,49 +85,6 @@ Sou um desenvolvedor recém-formado em Análise e Desenvolvimento de Sistemas, a
 - Capacidade de aprender rapidamente e de forma autônoma
 
 - Boa habilidade em resolução de problemas e pensamento crítico
-
-
-
-## Meus Principais Projetos
-
-### Projetos em Java
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=sistema-erp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/sistema-erp)
-
-*Um sistema ERP básico para gerenciamento de produtos e estoque, desenvolvido com Java. Em breve será implementado um sistema de clientes e vendas.*
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=catalogo-servico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/catalogo-servico)
-
-*Catálogo de serviços onde é possível cadastrar um profissional e o tipo de serviço oferecido.*
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=calculadora-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/calculadora-java)
-
-*Uma calculadora simples implementada em Java para praticar conceitos básicos de programação.*
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=PequenosProjetos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/PequenosProjetos)
-
-*Pequenos Projetos para fixar e aprimorar conhecimento em List, pesquisa e Ordenação.*
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-java-poo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-java-poo)
-
-*Desafio de programação em Java com foco em POO reproduzindo o sistema interno do primeiro iPhone.*
-
-
-
-
-### Projetos em JavaScript
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-logica-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-logica-dio)
-
-*Desafios de lógica de programação resolvidos em JavaScript.*
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-funcoes-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-funcoes-dio)
-
-*Desafios feitos para aprimorar o conhecimento em funções em JavaScript.*
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-classes-objetos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-classes-objetos)
-
-*Desafio feito para aprimorar o conhecimento em classes feito em JavaScript.*
 
 
 ### Status do GitHub
