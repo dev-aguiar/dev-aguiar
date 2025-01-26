@@ -6,7 +6,7 @@ Sou um desenvolvedor formado em Análise e Desenvolvimento de Sistemas, apaixona
 
 ### Projetos em Java
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=sistema-erp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/dslist)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=dslist&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/dslist)
 
 *Projeto utilizando java, spring e docker para armazenar dados. Em breve terá um front do projeto*
 
