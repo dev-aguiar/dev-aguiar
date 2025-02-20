@@ -10,38 +10,15 @@ Sou um desenvolvedor formado em Análise e Desenvolvimento de Sistemas, apaixona
 
 *Projeto utilizando java, spring e docker para armazenar dados. Em breve terá um front do projeto*
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=sistema-erp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/sistema-erp)
-
-*Um sistema ERP básico para gerenciamento de produtos e estoque, desenvolvido com Java. Em breve será implementado um sistema de clientes e vendas.*
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=catalogo-servico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/catalogo-servico)
-
-*Catálogo de serviços onde é possível cadastrar um profissional e o tipo de serviço oferecido.*
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=calculadora-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/calculadora-java)
-
-*Uma calculadora simples implementada em Java para praticar conceitos básicos de programação.*
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=PequenosProjetos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/PequenosProjetos)
-
-*Pequenos Projetos para fixar e aprimorar conhecimento em List, pesquisa e Ordenação.*
-
-
-
+**Mais projetos em Java nos meus repositórios...**
 
 ### Projetos em JavaScript
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-logica-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-logica-dio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=projeto-spotify&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/projeto-spotify)
 
-*Desafios de lógica de programação resolvidos em JavaScript.*
+*Interface simulada de player de música desenvolvida com HTML, CSS e JavaScript.*
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-funcoes-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-funcoes-dio)
-
-*Desafios feitos para aprimorar o conhecimento em funções em JavaScript.*
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=desafio-classes-objetos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/desafio-classes-objetos)
-
-*Desafio feito para aprimorar o conhecimento em classes feito em JavaScript.*
+**Mais projetos em JavaScript nos meus repositórios...**
 
 ### Conecte-se comigo
 
