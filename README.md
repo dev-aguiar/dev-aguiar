@@ -1,6 +1,6 @@
 # André Luiz Fraga de Aguiar
 
-Sou um desenvolvedor formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e em constante aprendizado. Estou me dedicando ao aprimoramento em Java e tenho conhecimento em JavaScript, HTML e CSS.
+Sou formado em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Estou sempre em busca de aprendizado e aprimoramento, com foco principal em Java e desenvolvimento backend.
 
 ## Meus Principais Projetos
 
@@ -20,40 +20,30 @@ Sou um desenvolvedor formado em Análise e Desenvolvimento de Sistemas, apaixona
 
 **Mais projetos em meus repositórios...**
 
-### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/andre_aguiar522)
+## Habilidades
 
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andre.aguiar522@gmail.com)
+### **Linguagens & Tecnologias**  
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)  
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/andre-aguiar97/)
+### **Banco de Dados & APIs**  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![REST API](https://img.shields.io/badge/REST%20API-%2300ADD8.svg?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)  
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5511975158913)
-
-
-### Cursos:
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Jan/2022 ~ Dez/2023
-
-- **Bootcamp Potência Tech iFood - Programação do Zero** - Concluído em Jan/2024
-
-- **DIO Campus Expert #7** - Concluído em Abril/2024
-
-- **Bootcamp Java Santander - DIO** - Em andamento
-
-
-
-### Habilidades
-
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+### **Ferramentas & Qualidade de Software**  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)  
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)  
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)  
+[![VS Code](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
 
 ### Habilidades interpessoais:
 
@@ -62,6 +52,15 @@ Sou um desenvolvedor formado em Análise e Desenvolvimento de Sistemas, apaixona
 - Capacidade de aprender rapidamente e de forma autônoma
 
 - Boa habilidade em resolução de problemas e pensamento crítico
+
+## Conecte-se comigo
+
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andre.aguiar522@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/dev-aguiar/)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5511975158913)
+
 
 
 ### Status do GitHub
