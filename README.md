@@ -4,21 +4,21 @@ Sou um desenvolvedor formado em Análise e Desenvolvimento de Sistemas, apaixona
 
 ## Meus Principais Projetos
 
-### Projetos em Java
+### Projetos
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=erp-spring&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/erp-spring)
 
 *Projeto utilizando java, spring e docker para armazenar dados. Front do projeto 80% concluído*
 
-**Mais projetos em Java nos meus repositórios...**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=erp-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/erp-frontend)
 
-### Projetos em JavaScript
+*Frontend do projeto ERP-Spring*
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-aguiar&repo=projeto-spotify&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-aguiar/projeto-spotify)
 
 *Interface simulada de player de música desenvolvida com HTML, CSS e JavaScript.*
 
-**Mais projetos em JavaScript nos meus repositórios...**
+**Mais projetos em meus repositórios...**
 
 ### Conecte-se comigo
 
